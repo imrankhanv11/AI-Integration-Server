@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AI-Integrations/.vs
+/AI-Integrations/AI-Integrations/obj
+/AI-Integrations/AI-Integrations/bin/Debug/net8.0
